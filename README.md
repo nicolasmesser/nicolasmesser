@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## The GitHub Profile Trick
+Found on CSS-Tricks
+https://css-tricks.com/the-github-profile-trick/
