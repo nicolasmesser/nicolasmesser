@@ -9,3 +9,4 @@ Vue, TypeScript, TailwindCSS
 
 ### :desktop_computer: Projects
 - [TreeTasker](https://www.treetasker.ch/) :deciduous_tree: _An online todo-list App allowing you to organize yours tasks with a clutterfree experience!_
+- [ShareUpPaddle](https://github.com/ekyburz/ShareUpPaddle) :surfer: _An online marketplace that connects people who want to rent their Stand Up Paddle boards._
