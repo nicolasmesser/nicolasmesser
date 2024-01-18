@@ -5,7 +5,7 @@ Recovering swim geek turned into aspiring tech nerd. Hailing from the pool deck 
 HTML, CSS, JavaScript, Bootstrap, PostgreSQL, SQL, Ruby on Rails
 
 ### :bulb: Learning
-Vue, TypeScript, Docker, TailwindCSS
+Vue, TypeScript, Python, Docker, TailwindCSS
 
 ### :desktop_computer: Projects
 - [TreeTasker](https://www.treetasker.ch/) :deciduous_tree: _An online todo-list App allowing you to organize yours tasks with a clutterfree experience!_
