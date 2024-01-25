@@ -4,6 +4,11 @@ Recovering swim geek turned into aspiring tech nerd. Hailing from the pool deck 
 ### :gem: Skills
 HTML, CSS, JavaScript, Bootstrap, PostgreSQL, SQL, Ruby on Rails
 
+### :headphones: Listening
+I like to listen to a variety of Podcasts to stay up to date with current web development trends.
+
+ShopTalk Show, Syntax
+
 ### :bulb: Learning
 Vue, TypeScript, Python, Docker, TailwindCSS
 
