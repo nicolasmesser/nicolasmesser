@@ -5,9 +5,9 @@ Recovering swim geek turned into aspiring tech nerd. Hailing from the pool deck 
 HTML, CSS, JavaScript, Bootstrap, PostgreSQL, SQL, Ruby on Rails
 
 ### :headphones: Listening
-I like to listen to a variety of Podcasts to stay up to date with current web development trends.
+I like to listen to a variety of Podcasts to stay up to date with current web development (languages, frameworks, tools, ...) and related trends.
 
-ShopTalk Show, Syntax
+ShopTalk Show, Smashing Podcast, Syntax, Jukebox (WP Tavern), For Mac Eyes Only, SEO 101
 
 ### :bulb: Learning
 Vue, TypeScript, Python, Docker, TailwindCSS
