@@ -15,3 +15,5 @@ Vue, TypeScript, Python, Docker, TailwindCSS
 ### :desktop_computer: Projects
 - [TreeTasker](https://www.treetasker.ch/) :deciduous_tree: _An online todo-list App allowing you to organize yours tasks with a clutterfree experience!_
 - [ShareUpPaddle](https://github.com/ekyburz/ShareUpPaddle) :surfer: _An online marketplace that connects people who want to rent their Stand Up Paddle boards._
+- [PSW Chrome Extension](https://github.com/nicolasmesser/psw-chrome-ext) :globe_with_meridians: _A browser extension to show the latest workouts from ProSwimWorkouts._
+- [MS Inventory Mgmt](https://github.com/nicolasmesser/ms-inventory-mgmt) :floppy_disk: _Initial concept of the Inventory Management App for Matter Style._
