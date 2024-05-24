@@ -10,6 +10,7 @@ I like to listen to a variety of Podcasts to stay up to date with current web de
 ShopTalk Show, Smashing Podcast, Syntax, Jukebox (WP Tavern), For Mac Eyes Only, SEO 101
 
 ### :bulb: Learning
+I'm currently working through the Scrimba Frontend Path course and also experimenting with the following languages and technologies:
 Vue, TypeScript, Python, Django, Docker
 
 ### :desktop_computer: Projects
