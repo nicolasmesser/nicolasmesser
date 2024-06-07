@@ -19,4 +19,5 @@ Vue, TypeScript, Python, Django, Docker
 - [PSW Chrome Extension](https://github.com/nicolasmesser/psw-chrome-ext) :globe_with_meridians: _A browser extension to show the latest workouts from ProSwimWorkouts._
 - [MS Inventory Mgmt](https://github.com/nicolasmesser/ms-inventory-mgmt) :floppy_disk: _Initial concept of the Inventory Management App for Matter Style._
 
-This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
+___
+_This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)"._
