@@ -23,7 +23,7 @@ For Mac Eyes Only, SEO 101
 
 I'm currently working through the Scrimba Frontend Path course
 and also experimenting with the following languages and technologies:
-Vue, TypeScript, Python, Django, Docker
+Svelte (incl. SvelteKit & Svelte UX), Vue, TypeScript, Python, Django, Docker
 
 ### :desktop_computer: Projects
 
