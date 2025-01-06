@@ -33,8 +33,8 @@ todo-list App allowing you to organize yours tasks with a clutterfree experience
 that connects people who want to rent their Stand Up Paddle boards._
 - [PSW Chrome Extension](https://github.com/nicolasmesser/psw-chrome-ext) :globe_with_meridians:
 _A browser extension to show the latest workouts from ProSwimWorkouts._
-- [MS Inventory Mgmt](https://github.com/nicolasmesser/ms-inventory-mgmt) :floppy_disk:
-_Initial concept of the Inventory Management App for Matter Style._
+- [Countdown](https://github.com/nicolasmesser/countdown) :calendar:
+_Proof of concept for an events countdown App (currently testing with swimming events)._
 
 ___
 _This README has been optimized for accessibility based on GitHub's blogpost
