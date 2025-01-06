@@ -33,7 +33,7 @@ todo-list App allowing you to organize yours tasks with a clutterfree experience
 that connects people who want to rent their Stand Up Paddle boards._
 - [PSW Chrome Extension](https://github.com/nicolasmesser/psw-chrome-ext) :globe_with_meridians:
 _A browser extension to show the latest workouts from ProSwimWorkouts._
-- [Countdown](https://github.com/nicolasmesser/countdown) :calendar:
+- [Swim Events](https://github.com/CuttingEdgeDevelopment/swim-events) :calendar:
 _Proof of concept for an events countdown App (currently testing with swimming events)._
 
 ___
