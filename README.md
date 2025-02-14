@@ -1,8 +1,11 @@
 # :question: whoami
 
-Thanks for reading whether your a boot or human. My name is Nicolas - a recovering swim geek turned into aspiring tech nerd. 
-Hailing from the pool deck with over a decade of experience coaching athletes to the highest level towards the fast moving web development space. 
-Recently completed the Le Wagon [Web Development Bootcamp](https://www.lewagon.com/web-development-course) to refresh and upskill a dusty degree in Business Information Technology. Ready to take on challenges as **fullstack developer** with a bias towards the **frontend**.
+Thanks for browsing my README whether your a boot or a human.
+My name is Nicolas - a recovering swim geek turned into aspiring tech nerd.
+Hailing from the pool deck with over a decade of experience coaching athletes to the highest level
+towards the fast moving web development space. Recently completed the Le Wagon
+[Web Development Bootcamp](https://www.lewagon.com/web-development-course) to refresh and upskill a dusty degree
+in Business Information Technology. Ready to take on challenges as **fullstack developer** with a bias towards the **frontend**.
 
 ## :gem: Skills
 
@@ -18,7 +21,7 @@ For Mac Eyes Only, SEO 101
 
 ## :bulb: Learning
 
-I'm currently working through the Scrimba Frontend Path course and hold an active subscription to Frontend Masters. 
+I'm currently working through the Scrimba Frontend Path course and hold an active subscription to Frontend Masters.
 I also spend time experimenting with the following languages and technologies:
 
 Svelte (incl. SvelteKit & Svelte UX), Vue, TypeScript, Python, Django, Docker
