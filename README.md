@@ -29,6 +29,7 @@ with the following languages and technologies:
 Svelte (incl. SvelteKit & Svelte UX), Vue, TypeScript, Python, Django, Docker
 
 ## :desktop_computer: Projects
+
 - [PSW Chrome Extension](https://github.com/ProSwimWorkouts/psw-chrome-ext) :globe_with_meridians:
 _A browser extension to show the latest workouts from ProSwimWorkouts._
 - [Swim Events](https://github.com/CuttingEdgeDevelopment/swim-events) :calendar:
