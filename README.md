@@ -35,9 +35,9 @@ _A browser extension to show the latest workouts from ProSwimWorkouts._
 - [Swim Events](https://github.com/CuttingEdgeDevelopment/swim-events) :calendar:
 _Proof of concept for an events countdown App (currently testing with swimming events)._
 - [TreeTasker](https://www.treetasker.ch/) :deciduous_tree: _An online
-_todo-list App allowing you to organize yours tasks with a clutterfree experience!_
+todo-list App allowing you to organize yours tasks with a clutterfree experience!_
 - [ShareUpPaddle](https://github.com/ekyburz/ShareUpPaddle) :surfer: _An online marketplace
-_that connects people who want to rent their Stand Up Paddle boards._
+that connects people who want to rent their Stand Up Paddle boards._
 
 ___
 _This README has been optimized for accessibility based on GitHub's blogpost
