@@ -22,11 +22,10 @@ For Mac Eyes Only, SEO 101
 
 ## :bulb: Learning
 
-I'm currently working through the Scrimba Frontend Path course and
-hold an active subscription to Frontend Masters. I also spend time experimenting
+I keep an active subscription with [Scrimba](https://scrimba.com/?via=u017rv5) and currently spend time experimenting
 with the following languages and technologies:
 
-Svelte (incl. SvelteKit & Svelte UX), Vue, TypeScript, Python, Django, Docker
+Astro, Svelte (incl. SvelteKit & Svelte UX), Vue, TypeScript, Python, Django, Docker
 
 ## :desktop_computer: Projects
 
