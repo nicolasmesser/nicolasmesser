@@ -22,8 +22,9 @@ For Mac Eyes Only, SEO 101
 
 ## :bulb: Learning
 
-I keep an active subscription with [Scrimba](https://scrimba.com/?via=u017rv5) and 
-currently spend time experimenting with the following languages and technologies:
+I keep an active subscription with [Scrimba](https://scrimba.com/?via=u017rv5)
+and currently spend time experimenting with the following
+languages and technologies:
 
 Astro, Svelte (incl. SvelteKit & Svelte UX), Vue, TypeScript, Python, Django, Docker
 
