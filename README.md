@@ -34,7 +34,7 @@ Claude Code, Astro, WordPress
 _A browser extension to show the latest workouts from ProSwimWorkouts._
 - [Swim Events](https://github.com/CuttingEdgeDevelopment/swim-events) :calendar:
 _Proof of concept for an events countdown App (currently testing with swimming events)._
-- [TreeTasker]([https://www.treetasker.ch/](https://github.com/ekyburz/treetasker)) :deciduous_tree: _An online
+- [TreeTasker](https://github.com/ekyburz/treetasker) :deciduous_tree: _An online
 todo-list App allowing you to organize yours tasks with a clutterfree experience!_
 - [ShareUpPaddle](https://github.com/ekyburz/ShareUpPaddle) :surfer: _An online marketplace
 that connects people who want to rent their Stand Up Paddle boards._
