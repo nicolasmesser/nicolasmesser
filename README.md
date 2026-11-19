@@ -37,7 +37,8 @@ _Proof of concept for an events countdown App (currently testing with swimming e
 - [TreeTasker](https://github.com/ekyburz/treetasker) :deciduous_tree: _An online
 todo-list App allowing you to organize yours tasks with a clutterfree experience!_
 - [ShareUpPaddle](https://github.com/ekyburz/ShareUpPaddle) :surfer:
-_An online marketplace that connects people who want to rent their Stand Up Paddle boards._
+_An online marketplace that connects people who want to rent
+their Stand Up Paddle boards._
 
 ___
 _This README has been optimized for accessibility based on GitHub's blogpost
